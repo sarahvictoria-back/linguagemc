@@ -28,7 +28,7 @@ return 0 acaba com o main()
 e não pode esquecer de adicionar o suporte de fecho } para realmente acabar com a função principal
 
 ## Nova linha
-para inserir uma nova linha, pode ser usano o \n
+para inserir uma nova linha, pode ser usando o \n
 ### Exemplo
 ```
 #include <stdio.h>
