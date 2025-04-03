@@ -37,3 +37,12 @@ int main() {
 printf("Hello, World!\n I am learning C");
 return 0;
 }
+```
+## Regras para as váriaveis
+
+Os nomes podem conter letras, dígitos e sublinhados
+Os nomes devem começar com uma letra ou um sublinhado (_)
+Os nomes são sociáveis ( myVarE a myvarSão variáveis diferentes)
+Os nomes não podem conter espaços em branco ou caracteres especiais como !, %, etc.
+Palavras reservadas (tais como int) não pode ser utilizado como nomes
+
