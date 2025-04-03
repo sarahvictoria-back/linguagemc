@@ -2,7 +2,7 @@
 passo a passo linguagem C.
 Esse repositorio terá informações sobre a linguagem de programação C, onde servirá de aprendizado.
 
-Primeiros passos
+## Primeiros passos
 
 exemplo de código:
 ```
@@ -26,3 +26,13 @@ return 0 acaba com o main()
 
 e não pode esquecer de adicionar o suporte de fecho } para realmente acabar com a função principal
 
+## Nova linha
+para inserir uma nova linha, pode ser usano o \n
+### Exemplo
+```
+#include <stdio.h>
+
+int main() {
+printf("Hello, World!\n I am learning C");
+return 0;
+}
