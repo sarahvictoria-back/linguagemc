@@ -5,10 +5,10 @@ Esse repositorio terá informações sobre a linguagem de programação C, onde 
 Primeiros passos
 
 exemplo de código:
-#include <stdio.h>
+///#include <stdio.h>
 int main() {
     printf("Hello, World!");
-    return 0;
+    return 0;/
 }
 
 #include <stdio.h>É um biblioteca de arquivos de cabeçalho que nos permite trabalhar com entrada e saída funções.
