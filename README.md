@@ -7,6 +7,7 @@ Esse repositorio terá informações sobre a linguagem de programação C, onde 
 exemplo de código:
 ```
 #include <stdio.h>
+
 int main() {
     printf("Hello, World!");
     return 0;
